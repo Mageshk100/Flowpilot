@@ -10,7 +10,7 @@ You'll need Node.js installed to run this locally.
 # Install dependencies
 npm install
 
-# Start the Vite development server 
+# Start the Vite development server  
 npm run dev
 ```
 
